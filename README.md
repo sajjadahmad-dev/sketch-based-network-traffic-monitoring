@@ -24,5 +24,3 @@ This project demonstrates how a **Count-Min Sketch** can be applied to monitor n
 - Visualization of traffic patterns
 
 ---
-
-## System Pipeline
